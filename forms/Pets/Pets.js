@@ -11,3 +11,4 @@ let lengthwithSal = withSal.length
 console.log(lengthwithSal)
  withSal.pop()
  console.log(withSal)
+//we did it
